@@ -1,5 +1,5 @@
 <p>
-<p align="center" ><img alt="Kirby DDoS" src="https://i.postimg.cc/ZqG6Bq1s/R.png"></p>
+<p align="center" ><img alt="Kirby DDoS (EU AINDA ESTOU FAZENDO O PAINEL, POR FAVOR, AGUARDE\1" src="https://i.postimg.cc/ZqG6Bq1s/R.png"></p>
 
   <p align="center">
     Um programa que faz ataques DDoS, use apenas para fins educacionais!
