@@ -35,12 +35,12 @@ $ apt upgrade && apt update -y
 $ apt install git python -y
 
 
-$ git clone https://github.com/Kiny-Kiny/Kiny-Painel
+$ git clone https://github.com/hamsterdoctor/kirby
 
 
-$ cd Kiny-Painel
+$ cd kirby
 
 
-$ python3 main.py
+$ python2 kirby.py
 
 
