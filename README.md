@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/hamsterdoctor/kirby/files/8884864/Kirby.DoSer.zip">Instalar</a> •
-  <a href="https://www.python.org/ftp/python/2.7.15/python-2.7.15.msi">Python2</a> [•](https://github.com/hamsterdoctor/kirby)
+  <a href="https://www.python.org/ftp/python/2.7.15/python-2.7.15.msi">Python2</a>
   <a href="https://github.com/hamsterdoctor">Autor</a> 
 </p>
 
@@ -20,15 +20,19 @@
 
 • O Que é um ataque DDoS?
 
-R: *DDoS é uma sigla para “Distributed Denial of Service”, traduzido como “Negação Distribuída de Serviço”, e faz parte do vasto universo de crimes virtuais. De forma resumida, ele é uma sobrecarga no servidor que hospeda um site ou serviço, o que leva o servidor a "ser derrubado" de quem tenta acessar a página nesse período
+R: DDoS é uma sigla para “Distributed Denial of Service”, traduzido como “Negação Distribuída de Serviço”, e faz parte do vasto universo de crimes virtuais. De forma resumida, ele é uma sobrecarga no servidor que hospeda um site ou serviço, o que leva o servidor a "ser derrubado" de quem tenta acessar a página nesse período
 
 • Como ultilizo?
 
-R: *Precisarás de uma maquina virtual de Linux, assista o tutorial clicando **[***AQUI***](https://youtu.be/o-BOwEWaiZw**)
+R: Precisarás de uma maquina virtual de Linux, assista o tutorial clicando **[***AQUI***](https://youtu.be/o-BOwEWaiZw)
 
+Lembre-se De ultilizar apenas para fins educacionais, poderás ser processado por uma simples brincadeira, muito cuidado!
+
+Com grandes poderes vem grandes responsbilidades <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/yDxJtMgG/R.png' border='0' alt='R'/></a>
 
 <h2 align="center">🌸 | Instalar </h2>
-
+ 
+ 
 *Linux [Comandos]*
 
 
