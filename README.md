@@ -14,7 +14,7 @@
   <a href="https://github.com/hamsterdoctor">Autor</a> •
 </p>
 
-<h2 align="center">🖥 Instale</h2>
+<h2 align="center">🖥 | Instale</h2>
 
 Para ultilizar o programa corretamente é necessário fazer o download do python 2, instale clicando [**Aqui!**](https://www.python.org/ftp/python/2.7.15/python-2.7.15.msi)
 
@@ -38,7 +38,7 @@ $ python2 kirby.py
 ```
 
 <p align="center" >
-  <h2 align="center">💞 Foto</h2>
+  <h2 align="center">💞 | Foto</h2>
   <img alt="Kirby DoSer, eu hei de atualizar o programa para uma melhor aparência!" src="https://i.postimg.cc/7bSLxZXv/12-06-2022-19-22-04-REC.png">
 </p>
 
