@@ -6,7 +6,6 @@ from sys import argv
 if path.exists("aviso_read?") == False:
     with open('aviso_read?', 'w+') as f:
         system('kirby.txt')
-        input()
         f.write('true')
 try:
     from requests import get;from TerminalButtons import *
