@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/hamsterdoctor/kirby/files/8884864/Kirby.DoSer.zip">Instalar</a> •
   <a href="https://www.python.org/ftp/python/2.7.15/python-2.7.15.msi">Python2</a> •
-  <a href="https://github.com/hamsterdoctor">Autor</a> •
+  <a href="https://github.com/hamsterdoctor">Autor</a> 
 </p>
 
 <h2 align="center">🖥 | Instale</h2>
@@ -42,9 +42,8 @@ $ python2 kirby.py
   <img alt="Kirby DoSer, eu hei de atualizar o programa para uma melhor aparência!" src="https://i.postimg.cc/7bSLxZXv/12-06-2022-19-22-04-REC.png">
 </p>
 
-
 <div align="center">
-  <h2>👤 Perfis:</h2>
+  <h2>👤 | Autor:</h2>
 
   <table>
     <tr>
