@@ -48,8 +48,7 @@ $ python2 kirby.py
 
   <table>
     <tr>
-      <td align="center"><a href="https://github.com/hamsterdoctor"><img style="border-radius: 50%;" src="https://i.postimg.cc/SsVTvLp3/R.gif" width="100px;" alt=""/><br /><sub><b>@Kiny</b></sub></a><br /></td>
-alt=""/><br /><sub><b>@12k</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/hamsterdoctor"><img style="border-radius: 50%;" src="https://i.postimg.cc/SsVTvLp3/R.gif" width="100px;" alt=""/><br /><sub><b>@hamsterdoctor</b></sub></a><br /></td>
   </table>
 </div>
 
