@@ -39,7 +39,7 @@ $ python2 kirby.py
 
 <p align="center" >
   <h2 align="center">💞 Foto</h2>
-  <img alt="Kirby DoSer, eu hea de atualizar o programa para uma melhor aparência!" src="https://postimg.cc/7bSLxZXv">
+  <img alt="Kirby DoSer, eu hei de atualizar o programa para uma melhor aparência!" src="https://i.postimg.cc/7bSLxZXv/12-06-2022-19-22-04-REC.png">
 </p>
 
 
