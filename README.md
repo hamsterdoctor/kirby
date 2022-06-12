@@ -43,6 +43,13 @@ $ python2 kirby.py
 </p>
 
 
-<h2 align="center">💻 | Feito por: </h2>
- <a href="https://github.com/hamsterdoctor">@hamsterdoctor</a> 
+<div align="center">
+  <h2>👤 Perfis:</h2>
+
+  <table>
+    <tr>
+      <td align="center"><a href="https://github.com/hamsterdoctor"><img style="border-radius: 50%;" src="https://i.postimg.cc/SsVTvLp3/R.gif" width="100px;" alt=""/><br /><sub><b>@Kiny</b></sub></a><br /></td>
+alt=""/><br /><sub><b>@12k</b></sub></a><br /></td>
+  </table>
+</div>
 
